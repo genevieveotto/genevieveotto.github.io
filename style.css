@@ -9,6 +9,7 @@ color: hotpink
   width: 960px;
   margin: 20px auto 20px auto;
 img src= "gen7.jpg"
-h1 {
   color: pink;
+}
+h4 {color: blue;
 }
