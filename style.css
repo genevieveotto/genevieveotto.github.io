@@ -3,12 +3,12 @@ body {
   font-weight: 300;
   background-image: url(chicagoskyline.jpg.jpg);
   background-size: cover;
-color: pink
+color: hotpink
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
 img src= "gen7.jpg"
 h1 {
-  color: blue;
+  color: pink;
 }
